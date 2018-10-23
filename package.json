@@ -1,6 +1,6 @@
 {
     "name": "nodemailer-upper-headers",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "nodemailer (Easy as cake e-mail sending from your Node.js applications) 4.6.8 with headers upperCase",
     "main": "lib/nodemailer.js",
     "scripts": {
