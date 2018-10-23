@@ -1,22 +1,22 @@
 {
-    "name": "nodemailer",
-    "version": "4.6.8",
-    "description": "Easy as cake e-mail sending from your Node.js applications",
+    "name": "nodemailer-upper-headers",
+    "version": "1.0.1",
+    "description": "nodemailer (Easy as cake e-mail sending from your Node.js applications) 4.6.8 with headers upperCase",
     "main": "lib/nodemailer.js",
     "scripts": {
         "test": "grunt"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/nodemailer/nodemailer.git"
+        "url": "https://github.com/rivkatzur/nodemailer.git"
     },
     "keywords": [
         "Nodemailer"
     ],
-    "author": "Andris Reinman",
+    "author": "Rivka Tzur <rivkat@linnovate.net>",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/nodemailer/nodemailer/issues"
+        "url": "https://github.com/rivkatzur/nodemailer/issues"
     },
     "homepage": "https://nodemailer.com/",
     "devDependencies": {
